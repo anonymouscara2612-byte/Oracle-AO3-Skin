@@ -11,3 +11,4 @@
 
 5. Once it's created, just click "Use" to apply the skin.
 
+**NOTE:** Some regions doesn't support pictures uploaded to tumblr. So I made another version of the code with a different image hosting site (which does work for those regions as far as I know). The other version is in the "alternate CSS Code" file.
